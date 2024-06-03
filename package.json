@@ -4,9 +4,6 @@
   "main": "src/server.js",
   "license": "MIT",
   "type": "module",
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "server": "node ./src/server.js"
   },
