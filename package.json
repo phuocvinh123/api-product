@@ -1,11 +1,12 @@
 {
-  "name": "todo_api",
+  "name": "api-product",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "server": "node ./src/server.js"
+    "server": "node ./src/server.js",
+    "start": "node src/server.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
