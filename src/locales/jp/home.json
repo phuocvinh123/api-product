@@ -1,0 +1,64 @@
+{
+  "HEADER": {
+    "HI": "規登",
+    "HOME": "イページ",
+    "LOGIN": "ログイン",
+    "REGISTER": "新規登録",
+    "LOGOUT": "ご利用の流れ",
+    "LANGUAGE": "マイページ",
+    "CHAT": "利用"
+  },
+  "FOOTER": {
+    "INQUIRY": {
+      "TITLE": "お問い合わせ",
+      "NEWS": "ニュース",
+      "COMPANY_OVERVIEW": "会社概",
+      "TERMS_OF_USE": "要利用規約",
+      "COMMERCIAL_TRANSACTIONS": "特定商取引に基づく表記",
+      "PRIVACY_POLICY": "個人情報保護方針"
+    },
+    "SAFETY_INITIATIVES": {
+      "TITLE": "ANYTIMES安心への取り組み",
+      "ARTICLE_1": "報酬は仕事前に事務局に支払われ、評価・完了後に振り込まれます。",
+      "ARTICLE_2": "トラブルを避けるために、直接契約や金銭の手渡し、連絡先の交換はご遠慮いただいています。 必ずエニタイムズのチャット内でやりとりして下さい。 どうしても連絡先の交換が必要な場合、事務局までご連絡ください。"
+    },
+    "PAYMENT_METHOD": {
+      "TITLE": "決済方法",
+      "DESC": "お支払いは、クレジットカードまたはPayPal決済がご利用いただけます。 クレジットカードの場合は、 VISA, Master Card, JCBがご利用いただけます。 PayPalの場合は、 VISA, Master Card, AMEX, JCBがご利用いただけます。 クレジットカードをお持ちでない方は事務局までご連絡ください。"
+    }
+  },
+  "SERVICE": {
+    "DESC": "近所の人のユニークなサービスを体験できるみんなのサービス 近所の人のサービスを購入して体験してみましょう。プライベートレッスンから家事代行までジャンルは様々。"
+  },
+  "BUTTON": {
+    "LIST_OF_SERVICE": "サービスを出品する"
+  },
+  "CATEGORY": {
+    "TITLE": "カテゴリー",
+    "All": {
+      "TITLE": "すべて",
+      "HOUSEWORK": "家事",
+      "REPAIR_ASSEMBLY": "修理・組立",
+      "PET": "ペット",
+      "SENIOR_CITIZEN": "高齢者",
+      "HOBBIES_LESSONS": "趣味・習い事"
+    },
+    "SORT": {
+      "TITLE": "並べ替え",
+      "ORDER_DEFAULT": "デフォルト順",
+      "NEW_ARRIVAL_ORDER": "新着順",
+      "MIN_PRICE": "金額低い順",
+      "MAX_PRICE": "最高額",
+      "POPULARITY_ORDER": "人気順",
+      "SALES_PERFORMANCE_ORDER": "販売実績順"
+    },
+    "PRICE": {
+      "TITLE": "販売金額",
+      "0": "0円から",
+      "100": "100円から",
+      "1000": "1000円から",
+      "5000": "5000円から",
+      "10000": "10000円から"
+    }
+  }
+}
